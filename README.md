@@ -2,8 +2,7 @@ https://github.com/microsoft/Deep3DFaceReconstruction
 
 
 https://github.com/TimoBolkart/TF_FLAME
-  - https://github.com/TimoBolkart/TF_FLAME/issues/14
-
+  - Seems have some limiatations: https://github.com/TimoBolkart/TF_FLAME/issues/14
 
 https://github.com/unibas-gravis/basel-face-model-viewer
 
