@@ -16,6 +16,9 @@ https://github.com/cleardusk/3DDFA
 https://github.com/YadiraF/face3d
 
 
+https://github.com/unibas-gravis/parametric-face-image-generator
+
+
 To look at:
 ```
 https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data
